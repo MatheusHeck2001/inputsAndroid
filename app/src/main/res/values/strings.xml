@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Atividade2</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <!---<string name="wrongCred">Wrong credencials…</string>-->
+
+    <string name="imc">Calculate IMC</string>
+    <string name="imcCalculator">IMC Calculator</string>
+    <string name="weight">Enter your Weight</string>
+    <string name="height">Enter your Height</string>
+    <string name="imcResult">IMC: </string>
+
+
+    <string name="showCandidates">Show Candidates</string>
+    <string name="winner">Winner</string>
+    <string name="name">Enter the name</string>
+    <string name="votes">Enter the number of votes</string>
+    <string name="election">Candidate Vote</string>
+    <string name="register">Register</string>
+    <string name="submit">Show List</string>
+
+
+    <string name="athletes">Calculate Athlete Winner</string>
+    <string name="time">Finish time</string>
+    <string name="calculate">Calculate</string>
+    <string name="dp">Desvio padrão: </string>
+    <string name="media">Média: </string>
+
+
+
+
+    <string name="design">Designed by MH</string>
+
+    <string name="welcome">Welcome to Activity 2 App!</string>
+
+
+</resources>
